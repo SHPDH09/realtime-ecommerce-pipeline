@@ -7,3 +7,8 @@ requests==2.31.0
 pymysql==1.1.0
 streamlit-autorefresh
 
+kafka-python==2.0.2
+streamlit==1.24.0
+streamlit-autorefresh==1.0.1
+SQLAlchemy==2.0.21
+pandas==2.0.3
